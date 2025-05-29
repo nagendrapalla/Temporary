@@ -1,0 +1,14 @@
+| **Feature Category**       | **Current US Credit Cards**                         | **AlxCard (AIxCard OS)** — Smart Credit Card Platform                              |
+| -------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **Personalization**        | Fixed reward structures, APRs, and credit limits    | 🔁 **Dynamic personalization** of rewards, APR, and credit limits using Agentic AI |
+| **User Engagement**        | Manual reward selection, limited interaction        | 🤖 **AI Copilot** offers real-time insights, tips, and actions through chat        |
+| **Adaptability**           | Plans and benefits are static                       | 🌱 **Adaptive benefits** that evolve as user spending and behavior change          |
+| **Risk Profiling**         | Periodic credit checks, rigid underwriting          | 🧠 **Continuous behavioral risk assessment** and auto-adjustments                  |
+| **Reward Optimization**    | Category-based or rotating cashbacks                | 🎯 **Auto-optimized rewards** per user lifestyle and seasonality                   |
+| **Family & Social Credit** | Mostly individual-centric                           | 👨‍👩‍👧‍👦 **Trust Circles** and referral-based dynamic credit expansion          |
+| **Technology Experience**  | Some offer mobile apps and dashboards               | 📱 **Fully AI-integrated mobile/web app** with interactive Copilot                 |
+| **Churn Risk**             | High — users often shift based on offers            | 📉 **Lower churn** through continuous engagement and benefit maximization          |
+| **Accessibility**          | Harder for students, gig workers, immigrants        | 🌍 **Inclusive onboarding** with behavior-based limit and risk adaptation          |
+| **Innovation Curve**       | Incremental features (metal cards, cashback tweaks) | 🚀 **Category-defining innovation** — Agentic AI-powered Smart Card OS             |
+
+
